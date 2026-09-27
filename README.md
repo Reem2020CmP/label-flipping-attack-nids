@@ -12,6 +12,6 @@ label-flipping-ids/
 ├── experiments/       # Experimental scripts and configurations
 ├── results/           # Results from the experiments
 ├── figures/           # Graphs and visualzations
-├── notebooks/         # Jupyter notebooks
+├── notebooks/         # Jupyter Notebooks
 ├── docs/              # Additional documentation
 └── README.md          # Project documenation
