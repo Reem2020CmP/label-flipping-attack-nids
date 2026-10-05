@@ -1,2 +1,2 @@
-# label-flipping-attack-ids
-An experimental investigation of label flipping attacks on centralized machine learning-based intrusion detection systems.
+# label-flipping-attack-nids
+An experimental investigation of label-flipping attacks on centralized machine learning-based Network Intrusion Detection Systems (NIDS).
